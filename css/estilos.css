@@ -1,0 +1,63 @@
+body {
+	background-color: white;
+
+}
+
+
+.slide {
+	width: 1200px;
+	height: 500px;
+}
+
+.carousel {
+	width: 100%;
+}
+
+.zoom {
+    padding: 50px;
+    background-color: green;
+    transition: transform .2s;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.zoom:hover {
+    transform: scale(1.5);
+}
+
+.text-center {
+	text-align: center;
+}
+
+#footer-logo {
+	width: 200px;
+	margin: 0px auto;
+	margin-bottom: 10px;
+
+}
+
+footer{
+	font-family: Arial;
+	height: 200px;
+	background-color: rgb(0, 0, 0, 0.9);
+	color: white;
+
+}
+
+.container {
+		padding-left: 5em;
+		padding-top: 1em;
+}
+.margin_right {
+	margin-right: 100px;
+}
+
+.margin_top {
+	margin-top: 100px;
+}
+
+#slide_center {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
