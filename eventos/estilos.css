@@ -1,0 +1,161 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.p{
+    text-align: justify;
+}
+
+
+.parallax {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 0.65;
+    width: auto;
+
+}
+
+.img1 {
+    background-image: url(img/1.jpg);
+    height: 400px;
+}
+
+.img2 {
+    background-image: url(img/2.jpg);
+    height: 500px
+}
+
+.img3 {
+    background-image: url(img/3.jpg);
+    height: 500px;
+}
+
+.img4 {
+    background-image: url(img/4.jpg);
+    height: 500px;
+}
+
+h1 {
+    font-family: arial black, inherit;
+    letter-spacing: 1px;
+    text-align: justify;
+}
+
+
+
+.separador1 {
+    padding: 30px;
+    text-align: center;
+    font-size: 15px;
+    color: cadetblue;
+    font-family: arial, sans-serif;
+    background-color: #C8C8C8;
+
+}
+
+.separador1 h1 {
+    text-align: center;
+    color: #303030;
+    font-family: arial, sans-serif;
+}
+
+.separador2 {
+    text-align: center;
+    padding: 30px;
+    color: cadetblue;
+    font-family: arial, sans-serif;
+    font-size: 20px;
+    background-color: #C8C8C8;
+
+}
+
+
+.separador2 h1{
+    text-align: center;
+    color: #303030;
+}
+
+.separador3 {
+    padding: 30px;
+    text-align: center;
+    font-size: 15px;
+    color: black;
+    font-family: arial, sans-serif;
+    background-color: #C8C8C8;
+
+}
+
+.separador3 {
+    text-align: center;
+    color: #303030;
+    font-family: arial, sans-serif;
+
+}
+
+.separador3 h3{
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.separador3 h5 {
+    font-family: arial, sans-serif;
+    letter-spacing: 1px;
+    margin-top: 1em;
+}
+
+.separador3 p {
+  letter-spacing: 1px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+#footer-logo {
+    width: 200px;
+    margin: 0px auto;
+    margin-bottom: 10px;
+}
+
+footer{
+    text-align: center;
+    
+    letter-spacing: 1px;
+    height: 70%;
+    background-color: #303030;
+    color: white;
+}
+
+.container {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding-left: 6%;
+    padding-top: 1em;
+}
+
+.margin_right {
+    margin-right: 100px;
+}
+
+.margin_top {
+    margin-top: 100px;
+}
+
+#slide_center {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 0px !important;
+    max-width: max-content !important;
+}
+
+.col-lg-4 {
+    padding-top: 2em;
+
+}
+
+.nav_a {
+    color: #fff !important;
+}

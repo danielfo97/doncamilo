@@ -1,0 +1,67 @@
+body{
+	background-image: url(logo.jpg);
+	background-size: 100vw 100vh;
+	background-attachment: fixed;
+	font-family: cursive;
+}
+
+.text-center {
+	text-align: center;
+}
+
+#footer-logo {
+	width: 200px;
+	margin: 0px auto;
+	margin-bottom: 10px;
+}
+
+footer{
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	letter-spacing: 1px;
+	height: 70%;
+	background-color: #303030;
+	color: white;
+}
+
+.container {
+	margin-top: 2em;
+	margin-bottom: 2em;
+	padding-left: 6%;
+	padding-top: 1em;
+}
+
+.margin_right {
+	margin-right: 100px;
+}
+
+.margin_top {
+	margin-top: 100px;
+}
+
+#slide_center {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-left: 0px !important;
+    max-width: max-content !important;
+}
+
+.col-lg-4 {
+	padding-top: 2em;
+
+}
+
+.nav_a {
+	color: #fff !important;
+}
+
+.map {
+	margin: 10px auto;
+	width: 100%;
+}
+
+.horario {
+	color: #fff;
+	background-color: #303030;
+	opacity: 0.9;
+}
